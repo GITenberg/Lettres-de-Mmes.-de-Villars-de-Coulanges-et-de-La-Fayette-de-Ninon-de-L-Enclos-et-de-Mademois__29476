@@ -1,0 +1,71 @@
+_repo: Lettres-de-Mmes.-de-Villars-de-Coulanges-et-de-La-Fayette-de-Ninon-de-L-Enclos-et-de-Mademois__29476
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Auger, L.-S. (Louis-Simon)
+    alias: Auger, Louis-Simon
+    birthdate: 1772
+    deathdate: 1829
+    gutenberg_agent_id: '33933'
+    url: http://www.gutenberg.org/2009/agents/33933
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Coulanges, Marie-Angélique Du Gué Bagnoles
+    alias: Coulanges, Marie-Angelique Du Gue Bagnoles
+    birthdate: 1641
+    deathdate: 1723
+    gutenberg_agent_id: '33938'
+    url: http://www.gutenberg.org/2009/agents/33938
+  - agent_name: Villars, Marie Gigault de Bellefonds, marquise de
+    birthdate: 1624
+    deathdate: 1706
+    gutenberg_agent_id: '33937'
+    url: http://www.gutenberg.org/2009/agents/33937
+  - agent_name: Aïssé, C. E. (Charlotte Elisabeth)
+    aliases:
+    - Aïssé, Charlotte Elisabeth
+    - Aisse, C. E. (Charlotte Elisabeth)
+    deathdate: 1733
+    gutenberg_agent_id: '33931'
+    url: http://www.gutenberg.org/2009/agents/33931
+  - agent_name: Lenclos, Ninon de
+    aliases:
+    - L'Enclos, Ninon de
+    - Lenclos, Anne de
+    birthdate: 1620
+    deathdate: 1705
+    gutenberg_agent_id: '4624'
+    url: http://www.gutenberg.org/2009/agents/4624
+    wikipedia: http://en.wikipedia.org/wiki/Ninon_de_l%27Enclos
+  - agent_name: La Fayette, Madame de (Marie-Madeleine Pioche de La Vergne)
+    aliases:
+    - LaFayette, Madame de (Marie-Madeleine Pioche de La Vergne)
+    - Fayette, Marie-Madeleine de la
+    - Fayette, Marie-Madeleine Pioche de La Vergne, comtesse de La
+    - Fayette, Madame de La (Marie-Madeleine Pioche de La Vergne)
+    - De La Fayette, Madame (Marie-Madeleine Pioche de La Vergne)
+    birthdate: 1634
+    deathdate: 1693
+    gutenberg_agent_id: '249'
+    url: http://www.gutenberg.org/2009/agents/249
+    wikipedia: http://en.wikipedia.org/wiki/Marie-Madeleine_Pioche_de_la_Vergne%2C_comtesse_de_la_Fayette
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2009-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29476'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French letters'
+- !lcc 'PQ'
+title: "Lettres de Mmes. de Villars, de Coulanges et de La Fayette, de Ninon de L'Enclos\
+  \ et de Mademoiselle Aïssé\r\naccompagnées de notices bibliographiques, de notes\r\
+  \nexplicatives par Louis-Simon Auger"
+url: http://www.gutenberg.org/ebooks/29476
